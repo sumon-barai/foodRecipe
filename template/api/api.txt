@@ -1,0 +1,5 @@
+  food list get api
+  const url = `https://www.themealdb.com/api/json/v1/1/search.php?s=${foodName}`;
+  
+  food details api
+  const url = `https://www.themealdb.com/api/json/v1/1/lookup.php?i=${id}`;
